@@ -1,0 +1,60 @@
+.main {
+  background: linear-gradient(135deg, #1e90ff, #4b0082);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  padding: 1rem;
+}
+
+.container {
+  text-align: center;
+  color: white;
+  position: relative;
+  z-index: 1;
+  animation: fadeIn 1s ease-in;
+}
+
+.title {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+  text-shadow: 3px 3px 0px rgba(0,0,0,0.2);
+  animation: float 6s ease-in-out infinite;
+}
+
+.description {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  opacity: 0.9;
+}
+
+.playButton {
+  background: #ffd700;
+  color: #333;
+  border: none;
+  padding: 1rem 3rem;
+  font-size: 1.5rem;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  font-weight: bold;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+
+.playButton:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+  background: #ffe44d;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-20px); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}

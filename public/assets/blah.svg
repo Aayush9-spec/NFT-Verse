@@ -1,0 +1,18 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1920"
+  height="1080"
+  viewBox="0 0 1920 1080"
+>
+  <!-- Sky -->
+  <rect width="1920" height="1080" fill="#87CEEB" />
+
+  <!-- Grass -->
+  <rect y="880" width="1920" height="200" fill="#228B22" />
+
+  <!-- Clouds -->
+  <ellipse cx="400" cy="200" rx="120" ry="60" fill="white" />
+  <ellipse cx="500" cy="220" rx="100" ry="50" fill="white" />
+  <ellipse cx="1300" cy="150" rx="150" ry="75" fill="white" />
+  <ellipse cx="1400" cy="180" rx="100" ry="50" fill="white" />
+</svg>

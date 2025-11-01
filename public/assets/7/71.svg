@@ -1,0 +1,33 @@
+<svg width="241" height="57" viewBox="0 0 241 57" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_39_801" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="241" height="57">
+<rect width="241" height="57" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_39_801)">
+<path d="M304.5 2H358.5V55H301V22L299 55H243H181H124V2H177.5L184 6.5L187 2H237L241 8.5L243 2H301V8.5C301 4.9 303.333 2.66667 304.5 2Z" fill="#C7824B"/>
+<path d="M241 33.5L243 55M243 55H299L301 22V55H358.5V2H304.5C303.333 2.66667 301 4.9 301 8.5C301 12.1 301 5.66667 301 2H243L241 8.5L237 2H187L184 6.5L177.5 2H124V55H181H243Z" stroke="#4E1900"/>
+<path d="M131.629 37.2698L126 12.5C125.579 11.7977 124.5 12.0964 124.5 12.9155V55H184.5L185 53L184.5 31L141.618 43.1918C137.207 44.4461 132.646 41.7422 131.629 37.2698Z" fill="#B06C3D"/>
+<path d="M191.308 41.8459L184.5 30.5V42.5V55H242.5V52.5L242 48L197.756 45.7194C195.095 45.5822 192.678 44.1301 191.308 41.8459Z" fill="#B06C3D"/>
+<ellipse cx="3.5" cy="3" rx="3.5" ry="3" transform="matrix(-1 0 0 1 151.5 30)" fill="#B06C3D"/>
+<ellipse cx="3.5" cy="3" rx="3.5" ry="3" transform="matrix(-1 0 0 1 204.5 35)" fill="#B06C3D"/>
+<ellipse cx="3.5" cy="3" rx="3.5" ry="3" transform="matrix(4.37114e-08 1 1 -4.37114e-08 138 19.5)" fill="#B06C3D"/>
+<path d="M135.5 7H128.5" stroke="#E9A657" stroke-width="4" stroke-linecap="round"/>
+<path d="M233.5 8H223.5" stroke="#E9A657" stroke-width="4" stroke-linecap="round"/>
+<path d="M215.5 8H201.5" stroke="#E9A657" stroke-width="4" stroke-linecap="round"/>
+<path d="M177.5 7H163.5" stroke="#E9A657" stroke-width="4" stroke-linecap="round"/>
+<path d="M183.5 7L184.5 36" stroke="#4E1900" stroke-linecap="square"/>
+<path d="M184 43V55" stroke="#4E1900" stroke-linecap="square"/>
+<path d="M68.5 2H122.5V55H65V22L63 55H7L5 24.5V8.5L7 2H65V8.5C65 4.9 67.3333 2.66667 68.5 2Z" fill="#C7824B" stroke="#4E1900"/>
+<path d="M114.841 39.5986L121 12.5C121.421 11.7977 122.5 12.0964 122.5 12.9155V55H65.5L66 53L65.5 48L107.456 45.8148C111.032 45.6286 114.048 43.0897 114.841 39.5986Z" fill="#B06C3D"/>
+<path d="M40.5 50L63 48V55H6.5V48L40.5 50Z" fill="#B06C3D"/>
+<circle cx="3" cy="3" r="3" transform="matrix(-1 0 0 1 108.5 33)" fill="#B06C3D"/>
+<ellipse cx="3.5" cy="3" rx="3.5" ry="3" transform="matrix(-1 0 0 1 35.5 36)" fill="#B06C3D"/>
+<ellipse cx="3.5" cy="3" rx="3.5" ry="3" transform="matrix(4.37114e-08 1 1 -4.37114e-08 22 25.5)" fill="#B06C3D"/>
+<ellipse cx="2" cy="4.5" rx="2" ry="4.5" transform="matrix(4.37114e-08 1 1 -4.37114e-08 12.5 38)" fill="#B06C3D"/>
+<path d="M117.5 8H99.5" stroke="#E9A657" stroke-width="4" stroke-linecap="round"/>
+<path d="M85.5 8H76.5" stroke="#E9A657" stroke-width="4" stroke-linecap="round"/>
+<path d="M59 8H52" stroke="#E9A657" stroke-width="4" stroke-linecap="round"/>
+<path d="M65 8.5V23" stroke="#4E1900" stroke-opacity="0.5" stroke-linecap="round"/>
+<path d="M304.5 53H358.5V106H301V73L299 106H243L241 75.5V59.5L243 53H301V59.5C301 55.9 303.333 53.6667 304.5 53Z" fill="#C7824B" stroke="#4E1900"/>
+<path d="M304.5 -51H358.5V2H301V-31L299 2H243L241 -28.5V-44.5L243 -51H301V-44.5C301 -48.1 303.333 -50.3333 304.5 -51Z" fill="#C7824B" stroke="#4E1900"/>
+</g>
+</svg>
